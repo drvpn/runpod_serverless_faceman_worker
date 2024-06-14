@@ -50,7 +50,7 @@ You can invoke the function with a JSON payload specifying the input video URL. 
 Use RunPod's interface or an HTTPS client (i.e. Postman) to send this payload to the deployed function.
 
 # Input
-- `video_url`: The video you want to enhance (required)
+- `input_video_url`: The video you want to enhance (required)
 
 ## Example return value
 ```sh
